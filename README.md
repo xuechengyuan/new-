@@ -8,3 +8,4 @@ def sum_xue(list):
     else:
         return list.pop()+sum_xue(list)
 print(sum_xue(lis))
+熟悉python函数
